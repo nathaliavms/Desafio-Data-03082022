@@ -17,6 +17,7 @@ um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 # Exemplos de EntradaExemplos de Saída
 
 10 
+
 9
 # 
 
